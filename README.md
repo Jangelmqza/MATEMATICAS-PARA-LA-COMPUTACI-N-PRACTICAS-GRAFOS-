@@ -19,7 +19,7 @@ pip install networkx matplotlib scipy
 
 ### 👤 Autor
 **Jose Angel Márquez Ramírez**
-* Student at UPAEP 🦅
+* Estudiante en UPAEP 🦅
 * GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
 
 ## 📊 Mathematics for Computing: Graphs
