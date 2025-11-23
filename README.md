@@ -15,9 +15,31 @@ A diferencia de los ejercicios básicos, estos scripts requieren librerías exte
 
 ```bash
 pip install networkx matplotlib scipy
-´´´
+```
 
-### 👤 Author
-**[Your Name]**
+### 👤 Autor
+**Jose Angel Márquez Ramírez**
 * Student at @UPAEP 🦅
 * GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
+
+## 📊 Mathematics for Computing: Graphs
+
+Section dedicated to implementing **Graph Theory** using Python.
+
+### 📚 Applied Concepts
+* **Graph Creation:** Use of the `nx.Graph()` class.
+* **Node and Edge Manipulation:** `add_node` and `add_edge` methods, and adding from lists.
+* **Basic Analysis:** Node and edge counting, loop detection (self-loops).
+* **Visualization:** Network plotting using `matplotlib` and `networkx` (shell layout).
+
+### 🛠 Additional Requirements (Libraries)
+Unlike the basic exercises, these scripts require external libraries. To run them, install the dependencies:
+
+```bash
+pip install networkx matplotlib scipy
+```
+### 👤 Author
+**Jose Angel Márquez Ramírez**
+* Student at @UPAEP 🦅
+* GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
+
