@@ -15,6 +15,7 @@ A diferencia de los ejercicios básicos, estos scripts requieren librerías exte
 
 ```bash
 pip install networkx matplotlib scipy
+´´´
 
 ### 👤 Author
 **[Your Name]**
